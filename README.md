@@ -153,3 +153,6 @@ jobs:
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_378974c47651401ea1a483ff15f17322 }}
         package: '${{ github.workspace }}/target/*.jar'
 ```
+
+##OBS
+- Para acessar o deploy desse projeto java tem que entrar em /swagger-ui/index.html
