@@ -15,7 +15,6 @@ O **AquaGuard** é um sistema desenvolvido para monitorar e gerenciar eventos na
 
 ## 🔗 Links Importantes
 - [📦 Repositório Java (API)](https://github.com/raphatatto/cp5_devops_java_aquaguard)  
-- [🚀 Deploy na Azure (Swagger UI)](https://aquaguard-java-app-rm554983.azurewebsites.net/swagger-ui/index.html)  
 - [🎥 Vídeo de Apresentação](https://youtu.be/CUi5ZMLO6xM)
 
 ---
