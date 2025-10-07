@@ -154,5 +154,5 @@ jobs:
         package: '${{ github.workspace }}/target/*.jar'
 ```
 
-##OBS
+## OBS
 - Para acessar o deploy desse projeto java tem que entrar em /swagger-ui/index.html
